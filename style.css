@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family:"opensans" ;
+    src: url(font/OpenSans-Italic-VariableFont_wdth,wght.ttf);
+}
+.bg-con{
+    background-color: rgb(255, 240, 188);
+}
+
+.bg-font{
+    font-family: "opensans";
+}
